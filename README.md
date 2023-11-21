@@ -7,8 +7,22 @@
   
 ### Skills 🧑🏻‍💻
 <img src="https://img.shields.io/badge/springboot-FFFFFF?style=flat-square&logo=springboot&logoColor=6DB33F"/>
-<!-- https://simpleicons.org/?q=spring -->
-
+<!-- https://simpleicons.org/?q=spring 
+java
+python
+django
+nginx
+postgresql
+cubrid
+mariadb
+elasticsearch
+logstash
+kibana
+jenkins
+docker
+docker compose
+kubernetes
+-->
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohdonggyeong&show_icons=true&theme=radical)
 -->
