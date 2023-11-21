@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌟 I love organizing and sharing.
+🚀 I try to develop and organize in a concise and simple way.
+
 <!--
 **nohdonggyeong/nohdonggyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
