@@ -5,7 +5,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdrud1129)](https://solved.ac/ehdrud1129)  
   
-### Skills ✨
+### Skills 🧑🏻‍💻
 <img src="https://img.shields.io/badge/springboot-FFFFFF?style=flat-square&logo=springboot&logoColor=6DB33F"/>
 <!-- https://simpleicons.org/?q=spring -->
 
