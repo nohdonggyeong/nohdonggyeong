@@ -1,9 +1,10 @@
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdrud1129)](https://solved.ac/ehdrud1129)  
+
 ### Hi there! 🙋🏻‍♂️
 🚀 I'm back-end developer skilled in API and WEB.  
 🌟 I love creating and sharing fun things.  
   
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdrud1129)](https://solved.ac/ehdrud1129)  
   
 ### Skills 🧑🏻‍💻
 <img src="https://img.shields.io/badge/springboot-FFFFFF?style=flat-square&logo=springboot&logoColor=6DB33F"/>
