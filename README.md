@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌟 I love organizing and sharing.
+🌟 I love organizing and sharing.  
 🚀 I try to develop and organize in a concise and simple way.
 
 <!--
