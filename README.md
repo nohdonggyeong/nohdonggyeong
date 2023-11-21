@@ -4,7 +4,7 @@
 🧑🏻‍💻 I try to develop in a concise and simple way.  
   
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={ehdrud1129})](https://solved.ac/{ehdrud1129})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdrud1129)](https://solved.ac/ehdrud1129)
   
 ### Skills 🕹️
 <img src="https://img.shields.io/badge/springboot-FFFFFF?style=flat-square&logo=springboot&logoColor=6DB33F"/>
