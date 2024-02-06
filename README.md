@@ -1,5 +1,5 @@
 ### Hi there! 🙋🏻‍♂️
-🚀 I'm back-end developer skilled in API and WEB.  
+🚀 I'm back-end developer skilled in API and WEB implementation.  
 🌟 I love creating and sharing fun things.  
   
   
