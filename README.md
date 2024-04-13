@@ -1,6 +1,6 @@
-### Hi there! 🙋🏻‍♂️
-🚀 I'm back-end developer skilled in API and WEB implementation.  
-🌟 I love creating and sharing fun things.  
+### Hi there 🙋🏻‍♂️
+🚀 I'm a backend developer in the web field.  
+✨ I love creating and sharing fun things.  
   
   
 ### Skills 🧑🏻‍💻
