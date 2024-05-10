@@ -1,9 +1,10 @@
-### Hi there 👋
-👨‍💻 I'm a backend web developer.  
+# Hello World 👋
+## 👨‍💻 Dandy Andy
+✨ I'm a #backend #web developer.  
 🚀 I love creating and sharing fun things.  
   
   
-### ✍️ Skills
+## ✍️ Stacks
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdrud1129)](https://solved.ac/ehdrud1129)
 <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat-square&logo=openjdk&logoColor=FF7300"/>  <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat-square&logo=springboot&logoColor=6DB33F"/>  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>  <img src="https://img.shields.io/badge/Django-FFFFFF?style=flat-square&logo=django&logoColor=092E20"/>  <img src="https://img.shields.io/badge/Nginx-FFFFFF?style=flat-square&logo=nginx&logoColor=009639"/>  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=4169E1"/>  <img src="https://img.shields.io/badge/MariaDB-FFFFFF?style=flat-square&logo=mariadbfoundation&logoColor=003545"/>  
