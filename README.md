@@ -1,5 +1,4 @@
-# Hello World! 👋
-## 👨‍💻 Dandy Andy
+# Hello World! 👨‍💻
 ✨ I'm a [#backend](https://en.wikipedia.org/wiki/Frontend_and_backend) [#web developer](https://en.wikipedia.org/wiki/Web_developer).  
 🚀 I love creating and sharing fun things.  
   
