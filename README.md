@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text="We%20build%20products%20we%20believe%20in."&reversal=false&section=header&fontAlignY=40&fontSize=20&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text="We%20build%20products%20we%20believe%20in."&reversal=false&section=header&fontAlignY=35&fontSize=20&animation=fadeIn)
 ## 👨‍💻 Self introduction
 ✨ I'm a [#backend](https://en.wikipedia.org/wiki/Frontend_and_backend) [#web developer](https://en.wikipedia.org/wiki/Web_developer).  
 🚀 I love creating and sharing fun things.
