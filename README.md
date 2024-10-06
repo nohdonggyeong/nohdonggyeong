@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Back-end%20web%20developer&reversal=false&section=header&fontAlignY=40&fontSize=60&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text="We%20build%20products%20we%20believe%20in."&reversal=false&section=header&fontAlignY=40&fontSize=20&animation=fadeIn)
 ## 👨‍💻 Self introduction
 ✨ I'm a [#backend](https://en.wikipedia.org/wiki/Frontend_and_backend) [#web developer](https://en.wikipedia.org/wiki/Web_developer).  
 🚀 I love creating and sharing fun things.
@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=4169E1"/>  <img src="https://img.shields.io/badge/MariaDB-FFFFFF?style=flat-square&logo=mariadbfoundation&logoColor=003545"/>  <img src="https://img.shields.io/badge/ElasticSearch-FFFFFF?style=flat-square&logo=elasticsearch&logoColor=yellow"/>  <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=flat-square&logo=jenkins&logoColor=D24939"/>  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=flat-square&logo=docker&logoColor=2496ED"/>  <img src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=flat-square&logo=kubernetes&logoColor=326CE5"/>  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdrud1129)](https://solved.ac/ehdrud1129)
-
+</br></br>
 <!-- https://simpleicons.org-->
 
 <!--
