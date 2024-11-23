@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&text="Passionate%20About%20Creating%20Fun%20and%20Engaging%20Experiences."&reversal=false&section=header&fontAlignY=35&fontSize=20&animation=fadeIn)
-
-## 🙋🏻‍♂️ Self introduction
-⌨️ I'm a [#backend](https://en.wikipedia.org/wiki/Frontend_and_backend) [#web developer](https://en.wikipedia.org/wiki/Web_developer).  
-💡 I specialize in platform development.  
-📱 I enjoy creating fun and exciting things.  
-</br>
+## 🙌🏻 Self Introduction
+🦖 I am a [#backend](https://en.wikipedia.org/wiki/Frontend_and_backend) [#web developer](https://en.wikipedia.org/wiki/Web_developer) specializing in platform development.  
+🏋🏻‍♂️ I enjoy building stable and efficient systems with a strong focus on user experience.
+</br></br>
+## 🌸 Tech Stack
+<img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat-square&logo=openjdk&logoColor=FF7300"/>  <img src="https://img.shields.io/badge/Spring Boot-FFFFFF?style=flat-square&logo=springboot&logoColor=6DB33F"/>  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>  <img src="https://img.shields.io/badge/Django-FFFFFF?style=flat-square&logo=django&logoColor=092E20"/>  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=4169E1"/>  <img src="https://img.shields.io/badge/MariaDB-FFFFFF?style=flat-square&logo=mariadbfoundation&logoColor=003545"/>  <img src="https://img.shields.io/badge/Elasticsearch-FFFFFF?style=flat-square&logo=elasticsearch&logoColor=yellow"/>  <img src="https://img.shields.io/badge/Apache Kafka-FFFFFF?style=flat-square&logo=apachekafka&logoColor=231F20"/>  <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=flat-square&logo=jenkins&logoColor=D24939"/>  <img src="https://img.shields.io/badge/Docker Compose-FFFFFF?style=flat-square&logo=docker&logoColor=2496ED"/>  <img src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
+</br></br>
+## 🍵 etc.
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdrud1129)](https://solved.ac/ehdrud1129)
 </br></br>
-## 📚 Tech Stack
-<img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat-square&logo=openjdk&logoColor=FF7300"/>  <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?style=flat-square&logo=springboot&logoColor=6DB33F"/>  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>  <img src="https://img.shields.io/badge/Django-FFFFFF?style=flat-square&logo=django&logoColor=092E20"/>  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=4169E1"/>  <img src="https://img.shields.io/badge/MariaDB-FFFFFF?style=flat-square&logo=mariadbfoundation&logoColor=003545"/>  <img src="https://img.shields.io/badge/Elasticsearch-FFFFFF?style=flat-square&logo=elasticsearch&logoColor=yellow"/>  <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=flat-square&logo=jenkins&logoColor=D24939"/>  <img src="https://img.shields.io/badge/DockerCompose-FFFFFF?style=flat-square&logo=docker&logoColor=2496ED"/>  <img src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=flat-square&logo=kubernetes&logoColor=326CE5"/>  
-</br></br>
+
 <!-- https://simpleicons.org-->
 
 <!--
