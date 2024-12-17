@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&text="Passionate%20About%20Creating%20Fun%20and%20Engaging%20Experiences."&reversal=false&section=footer&fontAlignY=40&fontSize=20&animation=fadeIn)
-## 🙌🏻 Self Introduction
+## 👍🏻 Self Introduction
 🦖 I am a backend web developer specializing in platform development.  
 🏋🏻‍♂️ I enjoy building stable and efficient systems with a strong focus on user experience.  
 cf. [portfolio](https://nohdonggyeong.github.io/) / [blog](https://velog.io/@ehdrud1129/posts)
