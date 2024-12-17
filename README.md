@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text="Passionate%20About%20Creating%20Fun%20and%20Engaging%20Experiences."&reversal=false&section=header&fontAlignY=36&fontSize=20&animation=fadeIn&descSize=10)
+![header](https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&text="Passionate%20About%20Creating%20Fun%20and%20Engaging%20Experiences."&reversal=false&section=footer&fontAlignY=40&fontSize=20&animation=fadeIn)
 ## 🙌🏻 Self Introduction
 🦖 I am a backend web developer specializing in platform development.  
 🏋🏻‍♂️ I enjoy building stable and efficient systems with a strong focus on user experience.  
