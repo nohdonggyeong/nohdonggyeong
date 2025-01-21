@@ -5,7 +5,7 @@ Hi, there!
 🦖 I'm a backend web developer specializing in platform development.  
 🏋🏻‍♂️ Mainly, I develop platforms using java and spring boot.  
 🤔 And recently I'm in charge of improving the search system using OpenSearch.  
-📫 If you have any questions, please feel free to email me.
+<!--📫 If you have any questions, please feel free to email me.  -->
 <!--🏋🏻‍♂️ I enjoy building stable and efficient systems with a strong focus on user experience.  -->
 <!--cf. [portfolio](https://nohdonggyeong.github.io/), [blog](https://velog.io/@ehdrud1129/posts)-->
 
