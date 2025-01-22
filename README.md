@@ -1,10 +1,9 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:EEFF00,100:a82da8&text="Passionate%20About%20Creating%20Fun%20and%20Engaging%20Experiences."&reversal=false&section=footer&fontColor=808080&fontAlignY=30&fontSize=20&animation=fadeIn)-->
 
 ## 👍🏻 About Me
-Hi, there!  
-🦖 I'm a backend web developer specializing in platform development.  
-🏋🏻‍♂️ Mainly, I develop platforms using java and spring boot.  
-🤔 And recently, I'm in charge of improving the search system using OpenSearch.  
+🦖 Hello, I'm a backend developer.  
+🏋🏻‍♂️ I mainly use java and spring boot to develop web platforms.  
+🤔 And these days, I'm studying search services using OpenSearch.
 <!--📫 If you have any questions, please feel free to email me.  -->
 <!--🏋🏻‍♂️ I enjoy building stable and efficient systems with a strong focus on user experience.  -->
 <!--cf. [portfolio](https://nohdonggyeong.github.io/), [blog](https://velog.io/@ehdrud1129/posts)-->
