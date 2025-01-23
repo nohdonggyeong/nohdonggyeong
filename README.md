@@ -2,7 +2,7 @@
 
 ## About Me
 🦖 Backend Developer specializing in Java and Spring Boot, crafting scalable web platforms.   
-🏋🏻‍♂️ Experienced in building robust microservices, leveraging modern frameworks and cloud-native architectures to deliver high-performance applications. Currently exploring OpenSearch to enhance search service capabilities and optimize data retrieval strategies.   
+🏋🏻‍♂️ Experienced in building robust microservices, leveraging modern frameworks and cloud-native architectures to deliver high-performance applications. And currently, exploring OpenSearch to enhance search service capabilities and optimize data retrieval strategies.   
 <!--📫 If you have any questions, please feel free to email me.  -->
 <!--🏋🏻‍♂️ I enjoy building stable and efficient systems with a strong focus on user experience.  -->
 <!--cf. [portfolio](https://nohdonggyeong.github.io/), [blog](https://velog.io/@ehdrud1129/posts)-->
