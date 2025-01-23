@@ -1,8 +1,8 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:EEFF00,100:a82da8&text="Passionate%20About%20Creating%20Fun%20and%20Engaging%20Experiences."&reversal=false&section=footer&fontColor=808080&fontAlignY=30&fontSize=20&animation=fadeIn)-->
 
 ## About Me
-🦖 Java / Spring Boot Backend Dev, building scalable web platforms.   
-💎 Expert in microservices, modern frameworks & cloud-native architectures.   
+🧑🏻‍💻 Java / Spring Boot Backend Dev, building scalable web platforms.   
+💫 Expert in microservices, modern frameworks & cloud-native architectures.   
 🔭 Exploring OpenSearch to boost search capabilities & data retrieval.   
 <!--📫 If you have any questions, please feel free to email me.  -->
 <!--cf. [portfolio](https://nohdonggyeong.github.io/), [blog](https://velog.io/@ehdrud1129/posts)-->
