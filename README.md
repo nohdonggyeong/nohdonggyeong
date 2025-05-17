@@ -1,30 +1,10 @@
-<!--![header](https://capsule-render.vercel.app/api?type=waving&height=60&color=0:EEFF00,100:a82da8&text="Passionate%20About%20Creating%20Fun%20and%20Engaging%20Experiences."&reversal=false&section=footer&fontColor=808080&fontAlignY=30&fontSize=20&animation=fadeIn)-->
-
 ## About Me
-✨ Hello, I'm a developer working on the back-end of a digital asset distribution platform in a cloud-native microservice environment.  
-<!--I'm currently studying OpenSearch to enhance our search functionality and provide users with faster and more accurate results.-->
-  
-<!--📫 If you have any questions, please feel free to email me.  -->
-<!--cf. [portfolio](https://nohdonggyeong.github.io/), [blog](https://velog.io/@ehdrud1129/posts)-->
+✨ Backend developer for cloud-native microservices digital asset distribution platform
 
 ## Tech Stack
-<img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat-square&logo=openjdk&logoColor=FF7300"/>  <img src="https://img.shields.io/badge/Spring Boot-FFFFFF?style=flat-square&logo=springboot&logoColor=6DB33F"/>  <img src="https://img.shields.io/badge/Python-FFFFFF?style=flat-square&logo=python&logoColor=3776AB"/>  <img src="https://img.shields.io/badge/Django-FFFFFF?style=flat-square&logo=django&logoColor=092E20"/>  <img src="https://img.shields.io/badge/MariaDB-FFFFFF?style=flat-square&logo=mariadbfoundation&logoColor=003545"/>  <img src="https://img.shields.io/badge/PostgreSQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=4169E1"/>  <img src="https://img.shields.io/badge/Elastic Stack-FFFFFF?style=flat-square&logo=elasticstack&logoColor=yellow"/>  <img src="https://img.shields.io/badge/OpenSearch-FFFFFF?style=flat-square&logo=opensearch&logoColor=blue"/>  <img src="https://img.shields.io/badge/Apache Kafka-FFFFFF?style=flat-square&logo=apachekafka&logoColor=231F20"/>  <img src="https://img.shields.io/badge/Jenkins-FFFFFF?style=flat-square&logo=jenkins&logoColor=D24939"/>  <img src="https://img.shields.io/badge/Docker Compose-FFFFFF?style=flat-square&logo=docker&logoColor=2496ED"/>  <img src="https://img.shields.io/badge/Kubernetes-FFFFFF?style=flat-square&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>  <img src="https://img.shields.io/badge/-Apache Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>  <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>  <img src="https://img.shields.io/badge/-OpenSearch-005EB8?style=flat&logo=opensearch&logoColor=white"/>  <img src="https://img.shields.io/badge/-Elastic Stack-005571?style=flat&logo=elasticstack&logoColor=white"/> <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+
 <!--[Simple Icon Badges](https://gist.github.com/kimjisub/360ea6fc43b82baaf7193175fd12d2f7)-->
+
 <!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehdrud1129)](https://solved.ac/ehdrud1129)-->
-
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nohdonggyeong&show_icons=true&theme=radical)
--->
-
-<!--
-**nohdonggyeong/nohdonggyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
