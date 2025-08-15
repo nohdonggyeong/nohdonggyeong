@@ -1,5 +1,5 @@
 #### 🧑🏻‍💻 About Me
-Backend developer for generative AI platforms
+Backend Developer specializing in Generative AI Platforms
 
 #### 🛠️ Tech Stack
 <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
