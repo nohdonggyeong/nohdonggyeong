@@ -59,5 +59,5 @@ Currently building production RAG agent platforms — designing multi-agent LLM 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=nohdonggyeong&theme=tokyonight&hide_border=true&date_format=Y.n.j"/>
+  <img src="https://streak-stats.demolab.com?user=nohdonggyeong&theme=tokyonight&hide_border=true&date_format=Y.n.j"/>
 </p>
