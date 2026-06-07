@@ -60,12 +60,12 @@ Currently building production RAG agent platforms — designing multi-agent LLM 
 
 ## 📊 GitHub Stats
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<table border="0" cellspacing="0" cellpadding="8" align="center">
   <tr>
-    <td align="center" width="38%">
+    <td align="center">
       <img height="195" src="https://streak-stats.demolab.com?user=nohdonggyeong&theme=tokyonight&hide_border=true&date_format=Y.n.j"/>
     </td>
-    <td align="center" width="62%">
+    <td align="center">
       <img height="195" src="https://github-readme-activity-graph.vercel.app/graph?username=nohdonggyeong&theme=tokyo-night&hide_border=true&area=true&height=195"/>
     </td>
   </tr>
