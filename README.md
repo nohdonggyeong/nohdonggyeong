@@ -3,7 +3,6 @@
 ~6 years of backend engineering across enterprise product development and AI initiatives.  
 Currently building production RAG agent platforms — designing multi-agent LLM pipelines and integrating with MSA backends.
 
-
 ## 🛠️ Tech Stack
 
 **Product Development**
@@ -57,12 +56,8 @@ Currently building production RAG agent platforms — designing multi-agent LLM 
 ![Pinpoint](https://img.shields.io/badge/Pinpoint-4B0082?style=flat-square&logoColor=white)
 ![Scouter](https://img.shields.io/badge/Scouter-FF6600?style=flat-square&logoColor=white)
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=nohdonggyeong&theme=tokyonight&hide_border=true&date_format=Y.n.j"/>
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nohdonggyeong&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
