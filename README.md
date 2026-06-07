@@ -3,12 +3,10 @@
 ~6 years of backend engineering across enterprise product development and AI initiatives.  
 Currently building production RAG agent platforms — designing multi-agent LLM pipelines and integrating with MSA backends.
 
-<table border="0" align="center" cellspacing="0" cellpadding="4">
-  <tr>
-    <td><img height="150" src="https://streak-stats.demolab.com?user=nohdonggyeong&theme=tokyonight&hide_border=true&date_format=Y.n.j"/></td>
-    <td><img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=nohdonggyeong&theme=tokyo-night&hide_border=true&area=true&height=150"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=nohdonggyeong&theme=tokyonight&hide_border=true&date_format=Y.n.j"/>
+  <img height="150" src="https://github-readme-activity-graph.vercel.app/graph?username=nohdonggyeong&theme=tokyo-night&hide_border=true&area=true&height=150"/>
+</p>
 
 
 ## 🛠️ Tech Stack
